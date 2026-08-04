@@ -19,7 +19,7 @@
 <div align="left">
 <h3>Programing Language<h3>
 <img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"  alt="HTML" title="HTML"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/css.svg" alt="CSS" title="CSS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
@@ -70,6 +70,4 @@
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/facebook.png" height="40em" align="center" alt="Follow fifa on LinkedIn" title="Follow fifa on LinkedIn"/>](https://www.facebook.com/FxIxFxA/)[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/linkedin-circled.png" height="40em" align="center" alt="Follow Vivek on LinkedIn" title="Follow Vivek on LinkedIn"/>](https://linkedin.com/in/vivone)[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/twitter.png" height="40em" align="center" alt="Follow l__fifa__l on Twitter" title="Follow l__fifa__l on Twitter"/>](https://twitter.com/l__fifa__l)[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/instagram.png" height="40em" align="center" alt="Follow l_fifa_l on Instagram" title="Follow l_fifa_l on Instagram"/>](https://instagram.com/l_fifa_l)
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
