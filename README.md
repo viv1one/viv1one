@@ -1,73 +1,70 @@
-<!--
-**l-fifa-l/l-fifa-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
 
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/banner.svg" alt="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"  align="center" title="👋 Hi there! I'm "/>](https://viv1.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:34A853&height=200&section=header&text=Vivek%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Trust%20%26%20Safety%20%7C%20GenAI%20Systems%20%7C%20Program%20Management&descAlignY=58&descSize=18" width="100%"/>
 
-<h2>Says Hello.<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
+<a href="https://linkedin.com/in/vivone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vivone.corp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/viv1one"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.
-- 🎯 𝙿𝚛𝚘𝚖𝚙𝚝 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛.
-- 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎.
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
-- 🖥️ 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙻𝚒𝚗𝚞𝚡 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/linux.svg" height="30em" width="50em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/)
-
-## :heart_on_fire: My Tech Stack
-
-<div align="left">
-<h3>Programing Language<h3>
-<img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"  alt="HTML" title="HTML"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/dart.svg" alt="Dart" title="Dart"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/solidity.svg" alt="Solidty" title="Solidty"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
 
-<div align="left">
-<h3>Frameworks & Libraries<h3>
-<img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg" width="55em" alt="Django" title="Django"/>&nbsp;
-<img width="55" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img width="55" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
-<img width="55" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" title="Flutter"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS"/>
+<br>
+
+## About Me
+
+I'm a Project Management Apprentice on **Google Trust & Safety (News/UGC Ranking)**, where I design and ship GenAI systems — Agentic RAG, LLM annotation pipelines, AI evaluation frameworks — that keep harmful content off the platform at scale. Before Google, I took an early-stage startup from a raw idea to a funded, launched product as Product Lead at **Grinler**.
+
+I like the intersection of *program management rigor* and *hands-on AI system building* — writing the PRD and the prompt chain in the same week.
+
+<br>
+
+## 🚀 Impact Highlights
+
+| Project | Result |
+|---|---|
+| **Agentic RAG (Vector + Graph Search)** | 70% cut in manual investigation effort, 5× case throughput, ~1.5 FTEs saved |
+| **LLM Annotation Pipeline** | +25% blocklist precision, −40% false positives, scaled to 2,800+ entities |
+| **Athena Platform Migration** | Zero-downtime cutover across 16+ vendors, +40% review efficiency |
+| **TAG Workflow Standardization** | 80% reduction in investigation resolution time |
+| **AI "Pseudo-Rater" Evaluation System** | 95% reduction in manual processing time |
+| **Onboarding Infrastructure** | Ramp-up time cut from 6 months → 3 months |
+| **Grinler Partnerships** | Secured Microsoft for Startups + NVIDIA Inception, $150K in infra runway |
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-4285F4?style=for-the-badge)
+![LLM Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-34A853?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-FBBC05?style=for-the-badge)
+
 </div>
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+<br>
 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+## 🔭 Currently
 
 ```yaml
-
-𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊𝚗 𝙰𝙸 𝚋𝚊𝚜𝚎𝚍 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊.
-
+Building GenAI-powered Trust & Safety systems at Google — Agentic RAG
+architectures, LLM annotation pipelines, and AI evaluation frameworks —
+alongside a handful of side projects outside of work.
 ```
 
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+<br>
 
-  - 𝙲𝚛𝚎𝚊𝚝𝚎 𝚂𝚎𝚛𝚟𝚒𝚌𝚎 𝚠𝚑𝚎𝚛𝚎 𝙵𝚊𝚛𝚖𝚎𝚛 𝚑𝚊𝚟𝚎 𝚝𝚑𝚎 𝚌𝚘𝚗𝚝𝚛𝚘𝚕 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎𝚒𝚛 𝚙𝚛𝚘𝚍𝚞𝚌𝚎.
-  - 𝙼𝚊𝚔𝚒𝚗𝚐 𝚒𝚖𝚙𝚘𝚜𝚒𝚋𝚕𝚎 𝚙𝚘𝚜𝚒𝚋𝚕𝚎.
-  - 𝙿𝚕𝚊𝚗𝚒𝚗𝚐 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚊 𝚋𝚎𝚝𝚝𝚎𝚛 𝚙𝚕𝚊𝚌𝚎.
+<div align="center">
 
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-  - 𝙶𝚘 𝚘𝚗 𝚊𝚗 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎!
-  - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-  - 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙰𝚛𝚌𝚑 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚕𝚒𝚗𝚎 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
-  - 𝙱𝚞𝚒𝚕𝚍 𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜 𝚝𝚑𝚊𝚝 𝚠𝚘𝚞𝚕𝚍 𝚒𝚖𝚙𝚊𝚌𝚝 𝚖𝚒𝚕𝚕𝚒𝚘𝚗𝚜.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34A853,100:4285F4&height=100&section=footer" width="100%"/>
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
-
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/facebook.png" height="40em" align="center" alt="Follow fifa on LinkedIn" title="Follow fifa on LinkedIn"/>](https://www.facebook.com/FxIxFxA/)[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/linkedin-circled.png" height="40em" align="center" alt="Follow fifa on LinkedIn" title="Follow fifa on LinkedIn"/>](https://linkedin.com/in/fifa)[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/twitter.png" height="40em" align="center" alt="Follow l__fifa__l on Twitter" title="Follow l__fifa__l on Twitter"/>](https://twitter.com/l__fifa__l)[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/instagram.png" height="40em" align="center" alt="Follow l_fifa_l on Instagram" title="Follow l_fifa_l on Instagram"/>](https://instagram.com/l_fifa_l)
-
-## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
-
-- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
+</div>
