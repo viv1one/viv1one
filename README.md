@@ -12,7 +12,7 @@
 - 🎯 𝚂𝚑𝚒𝚙𝚙𝚒𝚗𝚐 𝚊𝚐𝚎𝚗𝚝𝚒𝚌 𝚁𝙰𝙶, 𝙻𝙻𝙼 𝚊𝚗𝚗𝚘𝚝𝚊𝚝𝚒𝚘𝚗 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜 & 𝙶𝚎𝚗𝙰𝙸 𝚎𝚗𝚏𝚘𝚛𝚌𝚎𝚖𝚎𝚗𝚝 𝚝𝚘𝚘𝚕𝚜 𝚊𝚝 𝚜𝚌𝚊𝚕𝚎.
 - 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
-- 🖥️ 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙻𝚒𝚗𝚞𝚡 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/linux.svg" height="30em" width="50em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/)
+
 
 ## :heart_on_fire: My Tech Stack
 
